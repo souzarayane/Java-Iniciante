@@ -22,6 +22,13 @@ Jogo da forca em Java onde o jogador tem 10 tentativas para acertar a palavra se
 
 [Link para o projeto](https://github.com/souzarayane/Java-Iniciante/tree/main/jogoDaForca)
 
+### 4. Tic-Tac-Toe (Jogo da Velha)
+
+Este projeto implementa um simples jogo da velha em Java, onde dois jogadores (representados pelos símbolos 'X' e 'O') competem para conseguir três de seus próprios símbolos em linha, 
+seja horizontal, vertical ou diagonal, em um tabuleiro 3x3.
+
+[Link para o projeto](https://github.com/souzarayane/Java-Iniciante/tree/main/jogoDaVelha)
+
 ## Como Executar
 
 Para executar qualquer um desses projetos, siga as instruções no README de cada projeto individual. Certifique-se de ter o Java Development Kit (JDK) instalado em seu sistema.
