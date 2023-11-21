@@ -29,6 +29,12 @@ seja horizontal, vertical ou diagonal, em um tabuleiro 3x3.
 
 [Link para o projeto](https://github.com/souzarayane/Java-Iniciante/tree/main/jogoDaVelha)
 
+### 5. Quizz
+
+O Quizz de Ciências em Java é um jogo educativo que desafia os jogadores a testarem seus conhecimentos em diversas áreas científicas. Desenvolvido em Java, o jogo utiliza conceitos fundamentais da linguagem para criar uma experiência interativa.
+
+[Link para o projeto](https://github.com/souzarayane/Java-Iniciante/tree/main/quizz)
+
 ## Como Executar
 
 Para executar qualquer um desses projetos, siga as instruções no README de cada projeto individual. Certifique-se de ter o Java Development Kit (JDK) instalado em seu sistema.
